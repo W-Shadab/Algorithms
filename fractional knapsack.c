@@ -20,8 +20,7 @@ scanf("%f" , &capacity);
 for(i = 0; i < n; i++)
     {
         printf("Enter weight, and profit: ");
-        scanf(" %d %d",
-              &weight[i], &profit[i]);
+        scanf(" %d %d", &weight[i], &profit[i]);
 
     }
 
